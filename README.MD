@@ -2,4 +2,4 @@
 
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |
-| xxxx | [xxxx](https://github.com/antonchgr/dataepisodes2024/tree/main/Exxxx) | xxxx | xx/xx/2024 |
+| 116 | [OneLake and Azure integration](https://github.com/antonchgr/dataepisodes2024/tree/main/E0116) | Microsoft Fabric | 03/01/2024 |
