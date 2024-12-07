@@ -1,4 +1,4 @@
-# Data episodes 2024
+# Data Episodes Part 2
 
 | # | Title | Category | Date |
 | ---: | :--- | :--- | :---: |
