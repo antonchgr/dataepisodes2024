@@ -13,5 +13,6 @@
 | 122 | [SQL Server 2025 for Data Professionals - RegEx Support](https://github.com/antonchgr/dataepisodes2024/tree/main/E122) | SQL Server 2025 | 18/10/2025 |
 | 123 | [SQL Server 2025 for Data Professionals - T-SQL enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E123) | SQL Server 2025 | 19/10/2025 |
 | 124 | [SQL Server 2025 for Data Professionals - Database Engine enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E124) | SQL Server 2025 | 21/10/2025 |
+| 125 | [SQL Server 2025 for Data Professionals - Security enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E125) | SQL Server 2025 | 09/11/2025 |
 
 <!-- [View Data Episodes Part 3](https://github.com/antonchgr/episodes) -->
