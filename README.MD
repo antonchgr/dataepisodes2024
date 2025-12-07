@@ -14,6 +14,6 @@
 | 123 | [SQL Server 2025 for Data Professionals - T-SQL enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E123) | SQL Server 2025 | 19/10/2025 |
 | 124 | [SQL Server 2025 for Data Professionals - Database Engine enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E124) | SQL Server 2025 | 21/10/2025 |
 | 125 | [SQL Server 2025 for Data Professionals - Security enhancements](https://github.com/antonchgr/dataepisodes2024/tree/main/E125) | SQL Server 2025 | 09/11/2025 |
-| 126 | [SQL Server 2025 for Data Professionals - Change Event Streaming (CES) and Integration with Microsoft Fabric](https://github.com/antonchgr/dataepisodes2024/tree/main/E126) | SQL Server 2025 | 07/12/2025 |
+| 126 | [SQL Server 2025 for Data Professionals - Change Event Streaming (CES) and Integration with Microsoft Fabric](https://github.com/antonchgr/dataepisodes2024/tree/main/E126) | SQL Server 2025 - Microsoft Fabric | 07/12/2025 |
 
 <!-- [View Data Episodes Part 3](https://github.com/antonchgr/episodes) -->
