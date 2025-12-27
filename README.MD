@@ -17,4 +17,5 @@
 | 126 | [SQL Server 2025 for Data Professionals - Change Event Streaming (CES) and Integration with Microsoft Fabric](https://github.com/antonchgr/dataepisodes2024/tree/main/E126) | SQL Server 2025 - Microsoft Fabric | 07/12/2025 |
 | 127 | [SQL Server 2025 for Data Professionals - Hidden Gems](https://github.com/antonchgr/dataepisodes2024/tree/main/E127) | SQL Server 2025 | 14/12/2025 |
 | 128 | [SQL Server 2025 for Data Professionals - Managed Identity support](https://github.com/antonchgr/dataepisodes2024/tree/main/E128) | SQL Server 2025 | 20/12/2025 |
+| 129 | [SQL Server 2025 for Data Professionals - REST Api Integration](https://github.com/antonchgr/dataepisodes2024/tree/main/E129) | SQL Server 2025 | 27/12/2025 |
 <!-- [View Data Episodes Part 3](https://github.com/antonchgr/episodes) -->
