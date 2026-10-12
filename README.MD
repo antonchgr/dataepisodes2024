@@ -20,4 +20,5 @@
 | 129 | [SQL Server 2025 for Data Professionals - REST Api Integration](https://github.com/antonchgr/dataepisodes2024/tree/main/E129) | SQL Server 2025 | 27/12/2025 |
 | 130 | [What is Polaris in Microsoft Fabric Data Warehouse](https://github.com/antonchgr/dataepisodes2024/tree/main/E130) | Microsoft Fabric | 11/01/2026 |
 | 131 | [Microsoft Fabric: Lakehouse vs Data Warehouse – When to use each](https://github.com/antonchgr/dataepisodes2024/tree/main/E131) | Microsoft Fabric | 08/03/2026 |
+| 132 | [What's new in T-SQL language for Fabric Data Warehouse](https://github.com/antonchgr/dataepisodes2024/tree/main/E132) | Microsoft Fabric | 12/10/2026 |
 <!-- [View Data Episodes Part 3](https://github.com/antonchgr/episodes) -->
